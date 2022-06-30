@@ -1,2 +1,2 @@
 # kotlin
-Kotlin basic code
+Kotlin basic code and tutorials
